@@ -1,4 +1,4 @@
-About Me
+About Me<br>
 I'm a recent graduate of the Undergraduate Physics Program at Pontificia Universidad Católica del Perú. 
 My current interests are Data Science and Quantum Computing
 
